@@ -1,0 +1,9 @@
+Package: com.unlock26.tweak
+Name: Unlock26
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Анимация разблокировки в стиле iOS 26 (Liquid Glass)
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
